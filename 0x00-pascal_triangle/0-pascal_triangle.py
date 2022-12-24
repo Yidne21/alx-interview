@@ -16,7 +16,6 @@ def pascal_triangle(n):
 
         for i in range(len(last_row) - 1):
             next_row.append(last_row[i] + last_row[i + 1])
-        
         next_row.append(1)
         pascalTriangle.append(next_row)
 
