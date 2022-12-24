@@ -1,2 +1,2 @@
 # alx-interview
-This repository contains different technical interview question solution
+This repository contains different technical interview questions solutions
