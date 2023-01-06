@@ -4,14 +4,11 @@
 
 
 def canUnlockAll(boxes):
-    key = set()
-    for i in range(len(boxes) - 1):
-        if i == 0 or i in key:
-            for k in boxes[i]:
-                for j in boxes[k]:
-                    key.add(k)
-                    key.add(j)
-    key.add(0)
+    key = [0]
+    for k in key:
+        for i in boxes[k]:
+            if i not in key and i < len(boxes):
+                key.append(i)
     if len(key) == len(boxes):
         return True
     else:
