@@ -26,3 +26,8 @@ Write a method that determines if all the boxes can be opened.
 - Input:  `[[1, 4], [2], [0, 4, 1], [3], [], [4, 1], [5, 6]]`
 - Output: `False`
 
+## :pencil: **Author**
+### :man: Yidnekachew Bantrga
+- [Github](https://github.com/Yidne21)
+- [Linkedin](https://www.linkedin.com/in/yidnekachew-bantrga-801376234/)
+
