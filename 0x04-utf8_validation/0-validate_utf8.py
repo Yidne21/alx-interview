@@ -4,6 +4,9 @@
 
 
 def validUTF8(data):
+    '''Return true if the data is valid utf8
+    else false
+    '''
     cnt = 0
     for num in data:
         if cnt == 0:
