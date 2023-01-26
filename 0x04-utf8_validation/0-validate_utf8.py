@@ -12,7 +12,6 @@ def validUTF8(data):
             elif num & 224 == 192:
                 cnt = 1
             elif num & 240 == 224:
-                print(num & 240)
                 cnt = 2
             elif num & 248 == 240:
                 cnt = 3
