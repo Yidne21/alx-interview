@@ -1,5 +1,6 @@
 # alx-interview
-<img src='https://www.synergisticit.com/wp-content/uploads/2020/09/Data-structures-and-algorithms-new.webp' width='100%'/>
+
+<img src='https://media.geeksforgeeks.org/wp-content/uploads/20211118125839/PythonDataStructuresandAlgorithms.png' width='100%'/>
 
 ---
 This repository contains different technical interview questions and solutions which is provided by the alx Software Engineering programme for the alx software Engineering student. which helps the student to better understand datastracture and algorithm.
