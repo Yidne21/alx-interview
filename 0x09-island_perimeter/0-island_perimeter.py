@@ -6,6 +6,10 @@ from typing import List
 
 
 def island_perimeter(grid: List) -> int:
+    '''
+    A function which calculats and return the perimeter
+    of island in given grid
+    '''
     width = len(grid[0])
     height = len(grid)
     perimeter = 0
