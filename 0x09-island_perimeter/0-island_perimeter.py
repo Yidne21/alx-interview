@@ -2,10 +2,9 @@
 '''
 Solution module for island perimeter
 '''
-from typing import List
 
 
-def island_perimeter(grid: List) -> int:
+def island_perimeter(grid):
     '''
     A function which calculats and return the perimeter
     of island in given grid
